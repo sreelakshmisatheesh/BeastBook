@@ -1,0 +1,1 @@
+BeastBook is an entertainment web application
