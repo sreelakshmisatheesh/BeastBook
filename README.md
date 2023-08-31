@@ -8,16 +8,15 @@ BeastBook is an online entertainment web application designed to provide users w
 2. Start the application: `npm start`
 ## Demo View 
 
-1.![Screenshot (1188)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/9257ee18-3a2f-4a2a-bcb2-5e6b08c76074)
-2.![Screenshot (1194)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/ba4be18e-84bb-4f11-a44f-26ce1feb1562)
-3.![Screenshot (1189)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/06bf97d5-0c0b-4234-93a0-5634f5ed71f6)
-4.![Screenshot (1190)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/83a914d3-1ad0-44d5-9936-51286cb8636c)
-
+1.![Screenshot (1188)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/91b8d420-66f1-4826-bfd1-ff521042d8eb)
+2.![Screenshot (1194)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/b99b30eb-6835-4471-9857-6fc7bb18fece)
+3.![Screenshot (1189)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/09084fec-cd18-427a-8550-c975ef47b525)
+4. ![Screenshot (1190)](https://github.com/sreelakshmisatheesh/BeastBook/assets/90602917/2aa8697b-d377-4a29-acc4-47e2541f48e7)
 
 ## Tools Used  
-1. API Intergration - **JSONPlaceHolder API**
+1. API Integration - **JSONPlaceHolder API**
 2. Website Stack   - **React.js**
-3. Others          -  Javascript, CSS , HTML
+3. Others          -  Javascript, CSS, HTML
 ## License  
 BeastBook is licensed under the MIT License.  
 ## Support and Contact  
